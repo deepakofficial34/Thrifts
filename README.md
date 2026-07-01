@@ -189,10 +189,10 @@ npm run dev
 
 ## Developer
 
-**Shivani M**
+**G.Deepak**
 
 Passionate full-stack developer focused on building practical and impactful web applications.
 
-LinkedIn: https://www.linkedin.com/in/shivani-m-760280261/
+LinkedIn: [https://www.linkedin.com/in/shivani-m-760280261/](https://www.linkedin.com/in/deepak-g-126a47252/)
 
 
